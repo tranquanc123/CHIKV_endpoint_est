@@ -1,1 +1,2 @@
-# CHIKV_endpoint_est
+# CHIKV endpoint estimates for future vaccine trial
+
